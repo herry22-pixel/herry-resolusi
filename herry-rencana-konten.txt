@@ -8,6 +8,4 @@ RENCANA KONTEN HERRY
 - Struktur data dasar
 - PHP
 - Interview
-- Vlogs
-- pyhton
 - C++
