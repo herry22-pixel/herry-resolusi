@@ -3,6 +3,7 @@ RENCANA KONTEN HERRY
 - Javascript
 *ES6
 * Framework javascript
+- Struktur data dasar
 - PHP
 - Interview
 - Vlogs
