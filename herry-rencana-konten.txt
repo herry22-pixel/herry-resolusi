@@ -9,5 +9,4 @@ RENCANA KONTEN HERRY
 - PHP
   ^ Laravel
 - Interview
-- Vlogs
-- pyhton
+- C++
