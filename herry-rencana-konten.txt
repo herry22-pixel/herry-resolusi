@@ -3,9 +3,11 @@ RENCANA KONTEN HERRY
 - Javascript
 *ES6
 * Framework javascript
-  ^ Angular
+  ^ Vue
   ^ React
+- Struktur data dasar
 - PHP
   ^ Laravel
 - Interview
 - Vlogs
+- pyhton
