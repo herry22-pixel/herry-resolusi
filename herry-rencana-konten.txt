@@ -1,0 +1,8 @@
+RENCANA KONTEN HERRY
+
+- Javascript
+*ES6
+* Framework javascript
+- PHP
+- Interview
+- Vlogs
